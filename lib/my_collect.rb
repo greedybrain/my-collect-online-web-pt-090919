@@ -8,7 +8,4 @@ def my_collect(array)
   collection
 end
 
-my_collect([1,2,3,4,5]) do |number|
-  number * 3
-end
 
